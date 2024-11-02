@@ -14,10 +14,10 @@ This project presents an innovative **Image and Live Video Encryption System** t
 To run this project, you will need to install **LabVIEW** and have access to a **MyRIO** module.
 
 ### System Requirements
-- LabVIEW (version X.X or later)
+- LabVIEW (version 2020 or later)
 - MyRIO hardware module
 - Compatible operating system (Windows recommended)
-- Required libraries and toolkits (if any) as specified in the LabVIEW installation
+
 
 ## Installation Steps
 1. **Install LabVIEW**:
@@ -25,13 +25,13 @@ To run this project, you will need to install **LabVIEW** and have access to a *
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Image-Video-Encryption-System.git
-   cd Image-Video-Encryption-System
+   git clone https://github.com/achrefsola/LabView-Image-and-Live-Video-Encryption-System/tree/main
+   
 
 
 3. **Open the Project**:
    - Launch LabVIEW.
-   - Open the project file (`.lvproj`) located in the cloned directory.
+   - Open the project file (`proj_chiff.lvproj`) located in the cloned directory.
 
 4. **Configure MyRIO**:
    - Ensure your MyRIO module is connected to your computer.
@@ -55,12 +55,11 @@ To run this project, you will need to install **LabVIEW** and have access to a *
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgements
 - **National Instruments** for providing LabVIEW and MyRIO.
 - The concept of chaotic systems, particularly the Lorenz system, for inspiring the encryption algorithm.
 
 ## Contact
-For questions or inquiries about this project, please contact me at [your.email@example.com].
+For questions or inquiries about this project, please contact me at achrafsoula9@gmail.com.
